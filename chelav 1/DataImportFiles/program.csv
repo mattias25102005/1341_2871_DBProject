@@ -1,0 +1,501 @@
+program_id,name,annual_price,duration_years
+1,Certificate in Computer Science (Day),11542.94,1
+2,Certificate in Computer Science (Evening),10802.72,1
+3,Certificate in Computer Science (Weekend),10212.06,1
+4,Certificate in Computer Science (Online),9945.60,1
+5,Certificate in Computer Science (Executive),13827.80,1
+6,Diploma in Computer Science (Day),15557.26,2
+7,Diploma in Computer Science (Evening),14545.48,2
+8,Diploma in Computer Science (Weekend),13676.92,2
+9,Diploma in Computer Science (Online),13162.72,2
+10,Diploma in Computer Science (Executive),19291.80,2
+11,Bachelor in Computer Science (Day),22507.19,3
+12,Bachelor in Computer Science (Evening),20330.87,3
+13,Bachelor in Computer Science (Weekend),19169.42,3
+14,Bachelor in Computer Science (Online),17752.28,3
+15,Bachelor in Computer Science (Executive),25713.43,3
+16,Bachelor Honors in Computer Science (Day),26296.93,4
+17,Bachelor Honors in Computer Science (Evening),22489.12,4
+18,Bachelor Honors in Computer Science (Weekend),22800.04,4
+19,Bachelor Honors in Computer Science (Online),20695.28,4
+20,Bachelor Honors in Computer Science (Executive),32182.06,4
+21,Certificate in Software Engineering (Day),12222.21,1
+22,Certificate in Software Engineering (Evening),10993.74,1
+23,Certificate in Software Engineering (Weekend),9904.43,1
+24,Certificate in Software Engineering (Online),9361.45,1
+25,Certificate in Software Engineering (Executive),15091.07,1
+26,Diploma in Software Engineering (Day),16686.91,2
+27,Diploma in Software Engineering (Evening),14839.40,2
+28,Diploma in Software Engineering (Weekend),14279.53,2
+29,Diploma in Software Engineering (Online),12817.39,2
+30,Diploma in Software Engineering (Executive),18386.53,2
+31,Bachelor in Software Engineering (Day),21648.87,3
+32,Bachelor in Software Engineering (Evening),19913.75,3
+33,Bachelor in Software Engineering (Weekend),18311.27,3
+34,Bachelor in Software Engineering (Online),17525.11,3
+35,Bachelor in Software Engineering (Executive),27393.89,3
+36,Bachelor Honors in Software Engineering (Day),26530.34,4
+37,Bachelor Honors in Software Engineering (Evening),23581.17,4
+38,Bachelor Honors in Software Engineering (Weekend),21049.67,4
+39,Bachelor Honors in Software Engineering (Online),21238.59,4
+40,Bachelor Honors in Software Engineering (Executive),30774.25,4
+41,Certificate in Information Systems (Day),11906.66,1
+42,Certificate in Information Systems (Evening),10690.68,1
+43,Certificate in Information Systems (Weekend),10287.43,1
+44,Certificate in Information Systems (Online),9598.52,1
+45,Certificate in Information Systems (Executive),13847.69,1
+46,Diploma in Information Systems (Day),16010.17,2
+47,Diploma in Information Systems (Evening),14760.21,2
+48,Diploma in Information Systems (Weekend),13736.22,2
+49,Diploma in Information Systems (Online),12788.52,2
+50,Diploma in Information Systems (Executive),20000.17,2
+51,Bachelor in Information Systems (Day),21469.02,3
+52,Bachelor in Information Systems (Evening),19641.53,3
+53,Bachelor in Information Systems (Weekend),19497.06,3
+54,Bachelor in Information Systems (Online),17563.37,3
+55,Bachelor in Information Systems (Executive),26447.49,3
+56,Bachelor Honors in Information Systems (Day),24765.98,4
+57,Bachelor Honors in Information Systems (Evening),22755.39,4
+58,Bachelor Honors in Information Systems (Weekend),21280.09,4
+59,Bachelor Honors in Information Systems (Online),19861.69,4
+60,Bachelor Honors in Information Systems (Executive),31838.55,4
+61,Certificate in Data Science (Day),12464.19,1
+62,Certificate in Data Science (Evening),10370.78,1
+63,Certificate in Data Science (Weekend),10324.76,1
+64,Certificate in Data Science (Online),9571.24,1
+65,Certificate in Data Science (Executive),14374.24,1
+66,Diploma in Data Science (Day),15566.28,2
+67,Diploma in Data Science (Evening),14955.73,2
+68,Diploma in Data Science (Weekend),13772.27,2
+69,Diploma in Data Science (Online),12744.70,2
+70,Diploma in Data Science (Executive),19141.26,2
+71,Bachelor in Data Science (Day),22944.82,3
+72,Bachelor in Data Science (Evening),20764.71,3
+73,Bachelor in Data Science (Weekend),18785.33,3
+74,Bachelor in Data Science (Online),17705.24,3
+75,Bachelor in Data Science (Executive),26848.15,3
+76,Bachelor Honors in Data Science (Day),25499.83,4
+77,Bachelor Honors in Data Science (Evening),24101.54,4
+78,Bachelor Honors in Data Science (Weekend),22104.20,4
+79,Bachelor Honors in Data Science (Online),20756.10,4
+80,Bachelor Honors in Data Science (Executive),32399.48,4
+81,Certificate in Cyber Security (Day),11919.68,1
+82,Certificate in Cyber Security (Evening),10577.92,1
+83,Certificate in Cyber Security (Weekend),9964.42,1
+84,Certificate in Cyber Security (Online),9151.78,1
+85,Certificate in Cyber Security (Executive),14624.13,1
+86,Diploma in Cyber Security (Day),16155.64,2
+87,Diploma in Cyber Security (Evening),14339.85,2
+88,Diploma in Cyber Security (Weekend),13631.13,2
+89,Diploma in Cyber Security (Online),12786.58,2
+90,Diploma in Cyber Security (Executive),20009.30,2
+91,Bachelor in Cyber Security (Day),21472.24,3
+92,Bachelor in Cyber Security (Evening),19771.43,3
+93,Bachelor in Cyber Security (Weekend),18721.07,3
+94,Bachelor in Cyber Security (Online),18174.07,3
+95,Bachelor in Cyber Security (Executive),27213.01,3
+96,Bachelor Honors in Cyber Security (Day),26150.38,4
+97,Bachelor Honors in Cyber Security (Evening),24353.00,4
+98,Bachelor Honors in Cyber Security (Weekend),22832.40,4
+99,Bachelor Honors in Cyber Security (Online),20418.65,4
+100,Bachelor Honors in Cyber Security (Executive),32500.45,4
+101,Certificate in Business Administration (Day),11518.05,1
+102,Certificate in Business Administration (Evening),11004.48,1
+103,Certificate in Business Administration (Weekend),10490.79,1
+104,Certificate in Business Administration (Online),9614.57,1
+105,Certificate in Business Administration (Executive),14332.21,1
+106,Diploma in Business Administration (Day),16744.43,2
+107,Diploma in Business Administration (Evening),15072.87,2
+108,Diploma in Business Administration (Weekend),14065.72,2
+109,Diploma in Business Administration (Online),12773.31,2
+110,Diploma in Business Administration (Executive),18363.45,2
+111,Bachelor in Business Administration (Day),21486.23,3
+112,Bachelor in Business Administration (Evening),19796.87,3
+113,Bachelor in Business Administration (Weekend),17945.76,3
+114,Bachelor in Business Administration (Online),18035.69,3
+115,Bachelor in Business Administration (Executive),26165.86,3
+116,Bachelor Honors in Business Administration (Day),25868.43,4
+117,Bachelor Honors in Business Administration (Evening),22262.84,4
+118,Bachelor Honors in Business Administration (Weekend),20995.47,4
+119,Bachelor Honors in Business Administration (Online),20967.73,4
+120,Bachelor Honors in Business Administration (Executive),32548.40,4
+121,Certificate in Accounting (Day),11499.68,1
+122,Certificate in Accounting (Evening),11117.27,1
+123,Certificate in Accounting (Weekend),9942.79,1
+124,Certificate in Accounting (Online),9716.23,1
+125,Certificate in Accounting (Executive),14762.67,1
+126,Diploma in Accounting (Day),16730.19,2
+127,Diploma in Accounting (Evening),14642.61,2
+128,Diploma in Accounting (Weekend),13784.16,2
+129,Diploma in Accounting (Online),12358.09,2
+130,Diploma in Accounting (Executive),18841.81,2
+131,Bachelor in Accounting (Day),22182.74,3
+132,Bachelor in Accounting (Evening),20333.67,3
+133,Bachelor in Accounting (Weekend),19541.38,3
+134,Bachelor in Accounting (Online),17585.90,3
+135,Bachelor in Accounting (Executive),26982.05,3
+136,Bachelor Honors in Accounting (Day),25050.65,4
+137,Bachelor Honors in Accounting (Evening),22751.65,4
+138,Bachelor Honors in Accounting (Weekend),22294.34,4
+139,Bachelor Honors in Accounting (Online),21753.22,4
+140,Bachelor Honors in Accounting (Executive),32373.10,4
+141,Certificate in Economics (Day),12005.67,1
+142,Certificate in Economics (Evening),10351.19,1
+143,Certificate in Economics (Weekend),10371.93,1
+144,Certificate in Economics (Online),10017.65,1
+145,Certificate in Economics (Executive),14808.15,1
+146,Diploma in Economics (Day),16664.03,2
+147,Diploma in Economics (Evening),14120.65,2
+148,Diploma in Economics (Weekend),13480.37,2
+149,Diploma in Economics (Online),13194.23,2
+150,Diploma in Economics (Executive),19238.46,2
+151,Bachelor in Economics (Day),21332.73,3
+152,Bachelor in Economics (Evening),18837.98,3
+153,Bachelor in Economics (Weekend),17963.47,3
+154,Bachelor in Economics (Online),18282.48,3
+155,Bachelor in Economics (Executive),25215.63,3
+156,Bachelor Honors in Economics (Day),25602.25,4
+157,Bachelor Honors in Economics (Evening),23056.96,4
+158,Bachelor Honors in Economics (Weekend),22695.67,4
+159,Bachelor Honors in Economics (Online),19813.64,4
+160,Bachelor Honors in Economics (Executive),31232.41,4
+161,Certificate in Marketing (Day),11793.31,1
+162,Certificate in Marketing (Evening),10587.97,1
+163,Certificate in Marketing (Weekend),10022.56,1
+164,Certificate in Marketing (Online),9236.52,1
+165,Certificate in Marketing (Executive),15046.25,1
+166,Diploma in Marketing (Day),16114.59,2
+167,Diploma in Marketing (Evening),14839.11,2
+168,Diploma in Marketing (Weekend),13129.29,2
+169,Diploma in Marketing (Online),12825.11,2
+170,Diploma in Marketing (Executive),19072.53,2
+171,Bachelor in Marketing (Day),21640.12,3
+172,Bachelor in Marketing (Evening),19994.47,3
+173,Bachelor in Marketing (Weekend),19033.79,3
+174,Bachelor in Marketing (Online),16842.33,3
+175,Bachelor in Marketing (Executive),26133.77,3
+176,Bachelor Honors in Marketing (Day),25208.28,4
+177,Bachelor Honors in Marketing (Evening),24386.21,4
+178,Bachelor Honors in Marketing (Weekend),21094.97,4
+179,Bachelor Honors in Marketing (Online),20893.11,4
+180,Bachelor Honors in Marketing (Executive),32257.62,4
+181,Certificate in Law (Day),11942.19,1
+182,Certificate in Law (Evening),11075.09,1
+183,Certificate in Law (Weekend),9882.30,1
+184,Certificate in Law (Online),9802.51,1
+185,Certificate in Law (Executive),14944.06,1
+186,Diploma in Law (Day),15406.62,2
+187,Diploma in Law (Evening),14443.11,2
+188,Diploma in Law (Weekend),13988.16,2
+189,Diploma in Law (Online),12821.57,2
+190,Diploma in Law (Executive),20076.65,2
+191,Bachelor in Law (Day),21252.86,3
+192,Bachelor in Law (Evening),20481.86,3
+193,Bachelor in Law (Weekend),18494.25,3
+194,Bachelor in Law (Online),17468.62,3
+195,Bachelor in Law (Executive),26173.19,3
+196,Bachelor Honors in Law (Day),24904.51,4
+197,Bachelor Honors in Law (Evening),22943.49,4
+198,Bachelor Honors in Law (Weekend),21755.39,4
+199,Bachelor Honors in Law (Online),20307.96,4
+200,Bachelor Honors in Law (Executive),31192.52,4
+201,Certificate in Psychology (Day),12336.30,1
+202,Certificate in Psychology (Evening),10709.00,1
+203,Certificate in Psychology (Weekend),10167.05,1
+204,Certificate in Psychology (Online),9432.76,1
+205,Certificate in Psychology (Executive),14374.16,1
+206,Diploma in Psychology (Day),15392.17,2
+207,Diploma in Psychology (Evening),14827.11,2
+208,Diploma in Psychology (Weekend),14003.53,2
+209,Diploma in Psychology (Online),13204.67,2
+210,Diploma in Psychology (Executive),19867.91,2
+211,Bachelor in Psychology (Day),21408.94,3
+212,Bachelor in Psychology (Evening),20698.27,3
+213,Bachelor in Psychology (Weekend),19408.02,3
+214,Bachelor in Psychology (Online),17856.40,3
+215,Bachelor in Psychology (Executive),26157.13,3
+216,Bachelor Honors in Psychology (Day),26736.62,4
+217,Bachelor Honors in Psychology (Evening),24217.81,4
+218,Bachelor Honors in Psychology (Weekend),22476.58,4
+219,Bachelor Honors in Psychology (Online),21759.29,4
+220,Bachelor Honors in Psychology (Executive),30738.08,4
+221,Certificate in Sociology (Day),11588.11,1
+222,Certificate in Sociology (Evening),10866.96,1
+223,Certificate in Sociology (Weekend),10273.78,1
+224,Certificate in Sociology (Online),9636.84,1
+225,Certificate in Sociology (Executive),13837.96,1
+226,Diploma in Sociology (Day),16345.62,2
+227,Diploma in Sociology (Evening),14480.35,2
+228,Diploma in Sociology (Weekend),13692.54,2
+229,Diploma in Sociology (Online),12434.48,2
+230,Diploma in Sociology (Executive),18805.82,2
+231,Bachelor in Sociology (Day),21489.82,3
+232,Bachelor in Sociology (Evening),19910.35,3
+233,Bachelor in Sociology (Weekend),17954.72,3
+234,Bachelor in Sociology (Online),17184.13,3
+235,Bachelor in Sociology (Executive),27600.87,3
+236,Bachelor Honors in Sociology (Day),25145.32,4
+237,Bachelor Honors in Sociology (Evening),23831.84,4
+238,Bachelor Honors in Sociology (Weekend),22672.64,4
+239,Bachelor Honors in Sociology (Online),21262.51,4
+240,Bachelor Honors in Sociology (Executive),30218.74,4
+241,Certificate in Education (Day),12156.10,1
+242,Certificate in Education (Evening),10807.16,1
+243,Certificate in Education (Weekend),9972.32,1
+244,Certificate in Education (Online),9923.90,1
+245,Certificate in Education (Executive),14099.09,1
+246,Diploma in Education (Day),15703.36,2
+247,Diploma in Education (Evening),14055.64,2
+248,Diploma in Education (Weekend),13005.52,2
+249,Diploma in Education (Online),12686.90,2
+250,Diploma in Education (Executive),19964.26,2
+251,Bachelor in Education (Day),22608.91,3
+252,Bachelor in Education (Evening),19630.77,3
+253,Bachelor in Education (Weekend),17793.85,3
+254,Bachelor in Education (Online),16889.75,3
+255,Bachelor in Education (Executive),25140.66,3
+256,Bachelor Honors in Education (Day),25019.85,4
+257,Bachelor Honors in Education (Evening),23834.83,4
+258,Bachelor Honors in Education (Weekend),22269.02,4
+259,Bachelor Honors in Education (Online),21707.11,4
+260,Bachelor Honors in Education (Executive),30732.96,4
+261,Certificate in Nursing (Day),12335.71,1
+262,Certificate in Nursing (Evening),10915.84,1
+263,Certificate in Nursing (Weekend),10357.81,1
+264,Certificate in Nursing (Online),9710.54,1
+265,Certificate in Nursing (Executive),15011.63,1
+266,Diploma in Nursing (Day),15705.70,2
+267,Diploma in Nursing (Evening),13990.52,2
+268,Diploma in Nursing (Weekend),13549.23,2
+269,Diploma in Nursing (Online),13413.26,2
+270,Diploma in Nursing (Executive),19926.53,2
+271,Bachelor in Nursing (Day),22410.22,3
+272,Bachelor in Nursing (Evening),20515.38,3
+273,Bachelor in Nursing (Weekend),19039.22,3
+274,Bachelor in Nursing (Online),18345.77,3
+275,Bachelor in Nursing (Executive),26107.08,3
+276,Bachelor Honors in Nursing (Day),27162.37,4
+277,Bachelor Honors in Nursing (Evening),23063.78,4
+278,Bachelor Honors in Nursing (Weekend),22620.21,4
+279,Bachelor Honors in Nursing (Online),20668.42,4
+280,Bachelor Honors in Nursing (Executive),29713.83,4
+281,Certificate in Biotechnology (Day),12234.36,1
+282,Certificate in Biotechnology (Evening),10572.72,1
+283,Certificate in Biotechnology (Weekend),10667.45,1
+284,Certificate in Biotechnology (Online),9887.85,1
+285,Certificate in Biotechnology (Executive),13856.13,1
+286,Diploma in Biotechnology (Day),16428.63,2
+287,Diploma in Biotechnology (Evening),14139.19,2
+288,Diploma in Biotechnology (Weekend),14148.03,2
+289,Diploma in Biotechnology (Online),12853.96,2
+290,Diploma in Biotechnology (Executive),18897.57,2
+291,Bachelor in Biotechnology (Day),22133.90,3
+292,Bachelor in Biotechnology (Evening),20238.92,3
+293,Bachelor in Biotechnology (Weekend),17975.56,3
+294,Bachelor in Biotechnology (Online),17809.39,3
+295,Bachelor in Biotechnology (Executive),25392.27,3
+296,Bachelor Honors in Biotechnology (Day),25026.77,4
+297,Bachelor Honors in Biotechnology (Evening),23058.46,4
+298,Bachelor Honors in Biotechnology (Weekend),22426.84,4
+299,Bachelor Honors in Biotechnology (Online),21124.06,4
+300,Bachelor Honors in Biotechnology (Executive),29729.84,4
+301,Certificate in Electrical Engineering (Day),12093.75,1
+302,Certificate in Electrical Engineering (Evening),10644.45,1
+303,Certificate in Electrical Engineering (Weekend),10081.79,1
+304,Certificate in Electrical Engineering (Online),9349.73,1
+305,Certificate in Electrical Engineering (Executive),14286.22,1
+306,Diploma in Electrical Engineering (Day),15551.30,2
+307,Diploma in Electrical Engineering (Evening),13860.30,2
+308,Diploma in Electrical Engineering (Weekend),13658.38,2
+309,Diploma in Electrical Engineering (Online),13006.80,2
+310,Diploma in Electrical Engineering (Executive),20034.56,2
+311,Bachelor in Electrical Engineering (Day),22404.25,3
+312,Bachelor in Electrical Engineering (Evening),19595.78,3
+313,Bachelor in Electrical Engineering (Weekend),18241.80,3
+314,Bachelor in Electrical Engineering (Online),16979.92,3
+315,Bachelor in Electrical Engineering (Executive),25141.68,3
+316,Bachelor Honors in Electrical Engineering (Day),25419.76,4
+317,Bachelor Honors in Electrical Engineering (Evening),23350.49,4
+318,Bachelor Honors in Electrical Engineering (Weekend),21578.03,4
+319,Bachelor Honors in Electrical Engineering (Online),20414.67,4
+320,Bachelor Honors in Electrical Engineering (Executive),32585.99,4
+321,Certificate in Mechanical Engineering (Day),12112.38,1
+322,Certificate in Mechanical Engineering (Evening),11166.72,1
+323,Certificate in Mechanical Engineering (Weekend),10254.04,1
+324,Certificate in Mechanical Engineering (Online),9744.20,1
+325,Certificate in Mechanical Engineering (Executive),15064.28,1
+326,Diploma in Mechanical Engineering (Day),16022.47,2
+327,Diploma in Mechanical Engineering (Evening),14061.92,2
+328,Diploma in Mechanical Engineering (Weekend),13780.89,2
+329,Diploma in Mechanical Engineering (Online),13125.80,2
+330,Diploma in Mechanical Engineering (Executive),18849.60,2
+331,Bachelor in Mechanical Engineering (Day),22347.31,3
+332,Bachelor in Mechanical Engineering (Evening),18832.59,3
+333,Bachelor in Mechanical Engineering (Weekend),19594.10,3
+334,Bachelor in Mechanical Engineering (Online),17548.16,3
+335,Bachelor in Mechanical Engineering (Executive),27641.31,3
+336,Bachelor Honors in Mechanical Engineering (Day),26465.77,4
+337,Bachelor Honors in Mechanical Engineering (Evening),24247.33,4
+338,Bachelor Honors in Mechanical Engineering (Weekend),23044.18,4
+339,Bachelor Honors in Mechanical Engineering (Online),21644.57,4
+340,Bachelor Honors in Mechanical Engineering (Executive),30885.11,4
+341,Certificate in Industrial Engineering (Day),12571.41,1
+342,Certificate in Industrial Engineering (Evening),11287.08,1
+343,Certificate in Industrial Engineering (Weekend),9927.16,1
+344,Certificate in Industrial Engineering (Online),9915.89,1
+345,Certificate in Industrial Engineering (Executive),14174.91,1
+346,Diploma in Industrial Engineering (Day),15521.57,2
+347,Diploma in Industrial Engineering (Evening),14197.12,2
+348,Diploma in Industrial Engineering (Weekend),13786.34,2
+349,Diploma in Industrial Engineering (Online),12862.46,2
+350,Diploma in Industrial Engineering (Executive),19150.20,2
+351,Bachelor in Industrial Engineering (Day),22634.98,3
+352,Bachelor in Industrial Engineering (Evening),19959.55,3
+353,Bachelor in Industrial Engineering (Weekend),18116.38,3
+354,Bachelor in Industrial Engineering (Online),17825.31,3
+355,Bachelor in Industrial Engineering (Executive),25485.98,3
+356,Bachelor Honors in Industrial Engineering (Day),27023.87,4
+357,Bachelor Honors in Industrial Engineering (Evening),24454.04,4
+358,Bachelor Honors in Industrial Engineering (Weekend),22793.40,4
+359,Bachelor Honors in Industrial Engineering (Online),21496.92,4
+360,Bachelor Honors in Industrial Engineering (Executive),31831.33,4
+361,Certificate in Architecture (Day),12354.44,1
+362,Certificate in Architecture (Evening),10950.25,1
+363,Certificate in Architecture (Weekend),9775.89,1
+364,Certificate in Architecture (Online),9477.88,1
+365,Certificate in Architecture (Executive),14732.65,1
+366,Diploma in Architecture (Day),15420.74,2
+367,Diploma in Architecture (Evening),14744.91,2
+368,Diploma in Architecture (Weekend),14278.38,2
+369,Diploma in Architecture (Online),12183.49,2
+370,Diploma in Architecture (Executive),18656.88,2
+371,Bachelor in Architecture (Day),22767.17,3
+372,Bachelor in Architecture (Evening),19963.13,3
+373,Bachelor in Architecture (Weekend),18835.82,3
+374,Bachelor in Architecture (Online),18401.76,3
+375,Bachelor in Architecture (Executive),26084.74,3
+376,Bachelor Honors in Architecture (Day),27204.17,4
+377,Bachelor Honors in Architecture (Evening),23438.83,4
+378,Bachelor Honors in Architecture (Weekend),22418.34,4
+379,Bachelor Honors in Architecture (Online),20088.73,4
+380,Bachelor Honors in Architecture (Executive),31227.34,4
+381,Certificate in Graphic Design (Day),11502.64,1
+382,Certificate in Graphic Design (Evening),11051.18,1
+383,Certificate in Graphic Design (Weekend),10030.28,1
+384,Certificate in Graphic Design (Online),9370.99,1
+385,Certificate in Graphic Design (Executive),13739.89,1
+386,Diploma in Graphic Design (Day),16148.36,2
+387,Diploma in Graphic Design (Evening),14813.63,2
+388,Diploma in Graphic Design (Weekend),13140.61,2
+389,Diploma in Graphic Design (Online),12534.93,2
+390,Diploma in Graphic Design (Executive),19279.04,2
+391,Bachelor in Graphic Design (Day),21685.89,3
+392,Bachelor in Graphic Design (Evening),20736.05,3
+393,Bachelor in Graphic Design (Weekend),18117.86,3
+394,Bachelor in Graphic Design (Online),18034.72,3
+395,Bachelor in Graphic Design (Executive),25104.94,3
+396,Bachelor Honors in Graphic Design (Day),26275.47,4
+397,Bachelor Honors in Graphic Design (Evening),23353.23,4
+398,Bachelor Honors in Graphic Design (Weekend),21929.06,4
+399,Bachelor Honors in Graphic Design (Online),21449.23,4
+400,Bachelor Honors in Graphic Design (Executive),32454.64,4
+401,Certificate in Communications (Day),12574.83,1
+402,Certificate in Communications (Evening),11336.56,1
+403,Certificate in Communications (Weekend),9864.30,1
+404,Certificate in Communications (Online),9615.54,1
+405,Certificate in Communications (Executive),13938.66,1
+406,Diploma in Communications (Day),16062.55,2
+407,Diploma in Communications (Evening),13916.07,2
+408,Diploma in Communications (Weekend),14126.58,2
+409,Diploma in Communications (Online),12819.19,2
+410,Diploma in Communications (Executive),19934.06,2
+411,Bachelor in Communications (Day),22315.49,3
+412,Bachelor in Communications (Evening),18813.95,3
+413,Bachelor in Communications (Weekend),18465.42,3
+414,Bachelor in Communications (Online),17367.67,3
+415,Bachelor in Communications (Executive),25650.75,3
+416,Bachelor Honors in Communications (Day),25100.99,4
+417,Bachelor Honors in Communications (Evening),23657.44,4
+418,Bachelor Honors in Communications (Weekend),21274.62,4
+419,Bachelor Honors in Communications (Online),21808.87,4
+420,Bachelor Honors in Communications (Executive),31151.84,4
+421,Certificate in Political Science (Day),12448.77,1
+422,Certificate in Political Science (Evening),11044.75,1
+423,Certificate in Political Science (Weekend),10078.82,1
+424,Certificate in Political Science (Online),9712.28,1
+425,Certificate in Political Science (Executive),14612.47,1
+426,Diploma in Political Science (Day),15756.48,2
+427,Diploma in Political Science (Evening),14989.68,2
+428,Diploma in Political Science (Weekend),13084.48,2
+429,Diploma in Political Science (Online),12824.25,2
+430,Diploma in Political Science (Executive),19830.99,2
+431,Bachelor in Political Science (Day),22403.77,3
+432,Bachelor in Political Science (Evening),19712.75,3
+433,Bachelor in Political Science (Weekend),18859.54,3
+434,Bachelor in Political Science (Online),16865.29,3
+435,Bachelor in Political Science (Executive),27136.68,3
+436,Bachelor Honors in Political Science (Day),24928.45,4
+437,Bachelor Honors in Political Science (Evening),23387.86,4
+438,Bachelor Honors in Political Science (Weekend),21684.58,4
+439,Bachelor Honors in Political Science (Online),21326.85,4
+440,Bachelor Honors in Political Science (Executive),30345.27,4
+441,Certificate in English Literature (Day),11790.00,1
+442,Certificate in English Literature (Evening),10806.77,1
+443,Certificate in English Literature (Weekend),10028.35,1
+444,Certificate in English Literature (Online),9990.82,1
+445,Certificate in English Literature (Executive),14722.34,1
+446,Diploma in English Literature (Day),16571.60,2
+447,Diploma in English Literature (Evening),14260.42,2
+448,Diploma in English Literature (Weekend),13160.37,2
+449,Diploma in English Literature (Online),13192.16,2
+450,Diploma in English Literature (Executive),18662.73,2
+451,Bachelor in English Literature (Day),22416.15,3
+452,Bachelor in English Literature (Evening),19500.12,3
+453,Bachelor in English Literature (Weekend),19237.03,3
+454,Bachelor in English Literature (Online),17441.07,3
+455,Bachelor in English Literature (Executive),27200.55,3
+456,Bachelor Honors in English Literature (Day),25692.23,4
+457,Bachelor Honors in English Literature (Evening),22591.25,4
+458,Bachelor Honors in English Literature (Weekend),22637.09,4
+459,Bachelor Honors in English Literature (Online),21126.23,4
+460,Bachelor Honors in English Literature (Executive),30038.06,4
+461,Certificate in Mathematics (Day),11721.15,1
+462,Certificate in Mathematics (Evening),11162.50,1
+463,Certificate in Mathematics (Weekend),10016.44,1
+464,Certificate in Mathematics (Online),9927.53,1
+465,Certificate in Mathematics (Executive),14320.01,1
+466,Diploma in Mathematics (Day),15432.58,2
+467,Diploma in Mathematics (Evening),14582.70,2
+468,Diploma in Mathematics (Weekend),13238.64,2
+469,Diploma in Mathematics (Online),13404.48,2
+470,Diploma in Mathematics (Executive),19317.70,2
+471,Bachelor in Mathematics (Day),21171.12,3
+472,Bachelor in Mathematics (Evening),19391.07,3
+473,Bachelor in Mathematics (Weekend),18621.58,3
+474,Bachelor in Mathematics (Online),17426.19,3
+475,Bachelor in Mathematics (Executive),25137.34,3
+476,Bachelor Honors in Mathematics (Day),26562.80,4
+477,Bachelor Honors in Mathematics (Evening),23807.43,4
+478,Bachelor Honors in Mathematics (Weekend),21739.41,4
+479,Bachelor Honors in Mathematics (Online),21172.68,4
+480,Bachelor Honors in Mathematics (Executive),32519.43,4
+481,Certificate in Environmental Studies (Day),12490.25,1
+482,Certificate in Environmental Studies (Evening),11175.14,1
+483,Certificate in Environmental Studies (Weekend),10661.78,1
+484,Certificate in Environmental Studies (Online),9760.92,1
+485,Certificate in Environmental Studies (Executive),14466.83,1
+486,Diploma in Environmental Studies (Day),15535.86,2
+487,Diploma in Environmental Studies (Evening),14187.11,2
+488,Diploma in Environmental Studies (Weekend),13369.41,2
+489,Diploma in Environmental Studies (Online),13341.30,2
+490,Diploma in Environmental Studies (Executive),19630.92,2
+491,Bachelor in Environmental Studies (Day),20923.13,3
+492,Bachelor in Environmental Studies (Evening),19916.66,3
+493,Bachelor in Environmental Studies (Weekend),18236.57,3
+494,Bachelor in Environmental Studies (Online),17307.86,3
+495,Bachelor in Environmental Studies (Executive),26781.13,3
+496,Bachelor Honors in Environmental Studies (Day),25778.02,4
+497,Bachelor Honors in Environmental Studies (Evening),24050.99,4
+498,Bachelor Honors in Environmental Studies (Weekend),22046.83,4
+499,Bachelor Honors in Environmental Studies (Online),21609.50,4
+500,Bachelor Honors in Environmental Studies (Executive),30696.89,4

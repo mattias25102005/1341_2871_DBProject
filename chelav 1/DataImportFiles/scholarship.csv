@@ -1,0 +1,501 @@
+scholarship_id,name,amount,criteria
+1,Merit Scholarship - Computer Science,2000.00,Average grade above 90 in the previous academic year
+2,Merit Scholarship - Software Engineering,25000.00,Average grade above 90 in the previous academic year
+3,Merit Scholarship - Information Systems,8000.00,Average grade above 90 in the previous academic year
+4,Merit Scholarship - Data Science,21000.00,Average grade above 90 in the previous academic year
+5,Merit Scholarship - Cyber Security,4500.00,Average grade above 90 in the previous academic year
+6,Merit Scholarship - Business Administration,22000.00,Average grade above 90 in the previous academic year
+7,Merit Scholarship - Accounting,9500.00,Average grade above 90 in the previous academic year
+8,Merit Scholarship - Economics,11000.00,Average grade above 90 in the previous academic year
+9,Merit Scholarship - Marketing,1500.00,Average grade above 90 in the previous academic year
+10,Merit Scholarship - Law,7500.00,Average grade above 90 in the previous academic year
+11,Merit Scholarship - Psychology,15500.00,Average grade above 90 in the previous academic year
+12,Merit Scholarship - Sociology,17000.00,Average grade above 90 in the previous academic year
+13,Merit Scholarship - Education,9500.00,Average grade above 90 in the previous academic year
+14,Merit Scholarship - Nursing,20500.00,Average grade above 90 in the previous academic year
+15,Merit Scholarship - Biotechnology,21000.00,Average grade above 90 in the previous academic year
+16,Merit Scholarship - Electrical Engineering,12500.00,Average grade above 90 in the previous academic year
+17,Merit Scholarship - Mechanical Engineering,3500.00,Average grade above 90 in the previous academic year
+18,Merit Scholarship - Industrial Engineering,18500.00,Average grade above 90 in the previous academic year
+19,Merit Scholarship - Architecture,23000.00,Average grade above 90 in the previous academic year
+20,Merit Scholarship - Graphic Design,7000.00,Average grade above 90 in the previous academic year
+21,Merit Scholarship - Communications,18000.00,Average grade above 90 in the previous academic year
+22,Merit Scholarship - Political Science,1000.00,Average grade above 90 in the previous academic year
+23,Merit Scholarship - English Literature,4000.00,Average grade above 90 in the previous academic year
+24,Merit Scholarship - Mathematics,5500.00,Average grade above 90 in the previous academic year
+25,Merit Scholarship - Environmental Studies,11500.00,Average grade above 90 in the previous academic year
+26,Excellence Scholarship - Computer Science,8000.00,Top 5 percent of the graduating class
+27,Excellence Scholarship - Software Engineering,15500.00,Top 5 percent of the graduating class
+28,Excellence Scholarship - Information Systems,7500.00,Top 5 percent of the graduating class
+29,Excellence Scholarship - Data Science,20000.00,Top 5 percent of the graduating class
+30,Excellence Scholarship - Cyber Security,22500.00,Top 5 percent of the graduating class
+31,Excellence Scholarship - Business Administration,6000.00,Top 5 percent of the graduating class
+32,Excellence Scholarship - Accounting,23500.00,Top 5 percent of the graduating class
+33,Excellence Scholarship - Economics,10500.00,Top 5 percent of the graduating class
+34,Excellence Scholarship - Marketing,3500.00,Top 5 percent of the graduating class
+35,Excellence Scholarship - Law,19000.00,Top 5 percent of the graduating class
+36,Excellence Scholarship - Psychology,14000.00,Top 5 percent of the graduating class
+37,Excellence Scholarship - Sociology,23500.00,Top 5 percent of the graduating class
+38,Excellence Scholarship - Education,17500.00,Top 5 percent of the graduating class
+39,Excellence Scholarship - Nursing,22500.00,Top 5 percent of the graduating class
+40,Excellence Scholarship - Biotechnology,19500.00,Top 5 percent of the graduating class
+41,Excellence Scholarship - Electrical Engineering,18500.00,Top 5 percent of the graduating class
+42,Excellence Scholarship - Mechanical Engineering,5000.00,Top 5 percent of the graduating class
+43,Excellence Scholarship - Industrial Engineering,4000.00,Top 5 percent of the graduating class
+44,Excellence Scholarship - Architecture,1500.00,Top 5 percent of the graduating class
+45,Excellence Scholarship - Graphic Design,9500.00,Top 5 percent of the graduating class
+46,Excellence Scholarship - Communications,14000.00,Top 5 percent of the graduating class
+47,Excellence Scholarship - Political Science,2000.00,Top 5 percent of the graduating class
+48,Excellence Scholarship - English Literature,6500.00,Top 5 percent of the graduating class
+49,Excellence Scholarship - Mathematics,18500.00,Top 5 percent of the graduating class
+50,Excellence Scholarship - Environmental Studies,24000.00,Top 5 percent of the graduating class
+51,Deans List Scholarship - Computer Science,17000.00,Placed on the Dean's list for two consecutive semesters
+52,Deans List Scholarship - Software Engineering,8000.00,Placed on the Dean's list for two consecutive semesters
+53,Deans List Scholarship - Information Systems,16000.00,Placed on the Dean's list for two consecutive semesters
+54,Deans List Scholarship - Data Science,22000.00,Placed on the Dean's list for two consecutive semesters
+55,Deans List Scholarship - Cyber Security,22000.00,Placed on the Dean's list for two consecutive semesters
+56,Deans List Scholarship - Business Administration,11500.00,Placed on the Dean's list for two consecutive semesters
+57,Deans List Scholarship - Accounting,11500.00,Placed on the Dean's list for two consecutive semesters
+58,Deans List Scholarship - Economics,12000.00,Placed on the Dean's list for two consecutive semesters
+59,Deans List Scholarship - Marketing,11000.00,Placed on the Dean's list for two consecutive semesters
+60,Deans List Scholarship - Law,20000.00,Placed on the Dean's list for two consecutive semesters
+61,Deans List Scholarship - Psychology,16000.00,Placed on the Dean's list for two consecutive semesters
+62,Deans List Scholarship - Sociology,9000.00,Placed on the Dean's list for two consecutive semesters
+63,Deans List Scholarship - Education,16500.00,Placed on the Dean's list for two consecutive semesters
+64,Deans List Scholarship - Nursing,11000.00,Placed on the Dean's list for two consecutive semesters
+65,Deans List Scholarship - Biotechnology,9000.00,Placed on the Dean's list for two consecutive semesters
+66,Deans List Scholarship - Electrical Engineering,2000.00,Placed on the Dean's list for two consecutive semesters
+67,Deans List Scholarship - Mechanical Engineering,21500.00,Placed on the Dean's list for two consecutive semesters
+68,Deans List Scholarship - Industrial Engineering,16500.00,Placed on the Dean's list for two consecutive semesters
+69,Deans List Scholarship - Architecture,5000.00,Placed on the Dean's list for two consecutive semesters
+70,Deans List Scholarship - Graphic Design,1500.00,Placed on the Dean's list for two consecutive semesters
+71,Deans List Scholarship - Communications,16000.00,Placed on the Dean's list for two consecutive semesters
+72,Deans List Scholarship - Political Science,12500.00,Placed on the Dean's list for two consecutive semesters
+73,Deans List Scholarship - English Literature,9000.00,Placed on the Dean's list for two consecutive semesters
+74,Deans List Scholarship - Mathematics,25000.00,Placed on the Dean's list for two consecutive semesters
+75,Deans List Scholarship - Environmental Studies,15500.00,Placed on the Dean's list for two consecutive semesters
+76,Need-Based Scholarship - Computer Science,7000.00,"Family income below the national average, documents required"
+77,Need-Based Scholarship - Software Engineering,12500.00,"Family income below the national average, documents required"
+78,Need-Based Scholarship - Information Systems,9500.00,"Family income below the national average, documents required"
+79,Need-Based Scholarship - Data Science,17000.00,"Family income below the national average, documents required"
+80,Need-Based Scholarship - Cyber Security,24000.00,"Family income below the national average, documents required"
+81,Need-Based Scholarship - Business Administration,13500.00,"Family income below the national average, documents required"
+82,Need-Based Scholarship - Accounting,10500.00,"Family income below the national average, documents required"
+83,Need-Based Scholarship - Economics,7500.00,"Family income below the national average, documents required"
+84,Need-Based Scholarship - Marketing,19500.00,"Family income below the national average, documents required"
+85,Need-Based Scholarship - Law,2500.00,"Family income below the national average, documents required"
+86,Need-Based Scholarship - Psychology,14000.00,"Family income below the national average, documents required"
+87,Need-Based Scholarship - Sociology,3000.00,"Family income below the national average, documents required"
+88,Need-Based Scholarship - Education,24000.00,"Family income below the national average, documents required"
+89,Need-Based Scholarship - Nursing,24000.00,"Family income below the national average, documents required"
+90,Need-Based Scholarship - Biotechnology,21500.00,"Family income below the national average, documents required"
+91,Need-Based Scholarship - Electrical Engineering,22000.00,"Family income below the national average, documents required"
+92,Need-Based Scholarship - Mechanical Engineering,17000.00,"Family income below the national average, documents required"
+93,Need-Based Scholarship - Industrial Engineering,22500.00,"Family income below the national average, documents required"
+94,Need-Based Scholarship - Architecture,18000.00,"Family income below the national average, documents required"
+95,Need-Based Scholarship - Graphic Design,10500.00,"Family income below the national average, documents required"
+96,Need-Based Scholarship - Communications,16000.00,"Family income below the national average, documents required"
+97,Need-Based Scholarship - Political Science,20500.00,"Family income below the national average, documents required"
+98,Need-Based Scholarship - English Literature,3500.00,"Family income below the national average, documents required"
+99,Need-Based Scholarship - Mathematics,17000.00,"Family income below the national average, documents required"
+100,Need-Based Scholarship - Environmental Studies,17500.00,"Family income below the national average, documents required"
+101,Women in STEM Scholarship - Computer Science,20000.00,Female student enrolled in a science or technology program
+102,Women in STEM Scholarship - Software Engineering,11000.00,Female student enrolled in a science or technology program
+103,Women in STEM Scholarship - Information Systems,16500.00,Female student enrolled in a science or technology program
+104,Women in STEM Scholarship - Data Science,11000.00,Female student enrolled in a science or technology program
+105,Women in STEM Scholarship - Cyber Security,22000.00,Female student enrolled in a science or technology program
+106,Women in STEM Scholarship - Business Administration,11500.00,Female student enrolled in a science or technology program
+107,Women in STEM Scholarship - Accounting,12500.00,Female student enrolled in a science or technology program
+108,Women in STEM Scholarship - Economics,6500.00,Female student enrolled in a science or technology program
+109,Women in STEM Scholarship - Marketing,3000.00,Female student enrolled in a science or technology program
+110,Women in STEM Scholarship - Law,18500.00,Female student enrolled in a science or technology program
+111,Women in STEM Scholarship - Psychology,6500.00,Female student enrolled in a science or technology program
+112,Women in STEM Scholarship - Sociology,25000.00,Female student enrolled in a science or technology program
+113,Women in STEM Scholarship - Education,9000.00,Female student enrolled in a science or technology program
+114,Women in STEM Scholarship - Nursing,17500.00,Female student enrolled in a science or technology program
+115,Women in STEM Scholarship - Biotechnology,17500.00,Female student enrolled in a science or technology program
+116,Women in STEM Scholarship - Electrical Engineering,13000.00,Female student enrolled in a science or technology program
+117,Women in STEM Scholarship - Mechanical Engineering,21000.00,Female student enrolled in a science or technology program
+118,Women in STEM Scholarship - Industrial Engineering,4000.00,Female student enrolled in a science or technology program
+119,Women in STEM Scholarship - Architecture,20000.00,Female student enrolled in a science or technology program
+120,Women in STEM Scholarship - Graphic Design,7500.00,Female student enrolled in a science or technology program
+121,Women in STEM Scholarship - Communications,1500.00,Female student enrolled in a science or technology program
+122,Women in STEM Scholarship - Political Science,15500.00,Female student enrolled in a science or technology program
+123,Women in STEM Scholarship - English Literature,8500.00,Female student enrolled in a science or technology program
+124,Women in STEM Scholarship - Mathematics,7500.00,Female student enrolled in a science or technology program
+125,Women in STEM Scholarship - Environmental Studies,14500.00,Female student enrolled in a science or technology program
+126,Military Service Scholarship - Computer Science,17000.00,Completed full military or national service
+127,Military Service Scholarship - Software Engineering,17500.00,Completed full military or national service
+128,Military Service Scholarship - Information Systems,5000.00,Completed full military or national service
+129,Military Service Scholarship - Data Science,17000.00,Completed full military or national service
+130,Military Service Scholarship - Cyber Security,7500.00,Completed full military or national service
+131,Military Service Scholarship - Business Administration,9500.00,Completed full military or national service
+132,Military Service Scholarship - Accounting,23500.00,Completed full military or national service
+133,Military Service Scholarship - Economics,16500.00,Completed full military or national service
+134,Military Service Scholarship - Marketing,5000.00,Completed full military or national service
+135,Military Service Scholarship - Law,18500.00,Completed full military or national service
+136,Military Service Scholarship - Psychology,22500.00,Completed full military or national service
+137,Military Service Scholarship - Sociology,11000.00,Completed full military or national service
+138,Military Service Scholarship - Education,12500.00,Completed full military or national service
+139,Military Service Scholarship - Nursing,21500.00,Completed full military or national service
+140,Military Service Scholarship - Biotechnology,13500.00,Completed full military or national service
+141,Military Service Scholarship - Electrical Engineering,18000.00,Completed full military or national service
+142,Military Service Scholarship - Mechanical Engineering,20500.00,Completed full military or national service
+143,Military Service Scholarship - Industrial Engineering,24000.00,Completed full military or national service
+144,Military Service Scholarship - Architecture,18000.00,Completed full military or national service
+145,Military Service Scholarship - Graphic Design,7000.00,Completed full military or national service
+146,Military Service Scholarship - Communications,5500.00,Completed full military or national service
+147,Military Service Scholarship - Political Science,20000.00,Completed full military or national service
+148,Military Service Scholarship - English Literature,18500.00,Completed full military or national service
+149,Military Service Scholarship - Mathematics,23500.00,Completed full military or national service
+150,Military Service Scholarship - Environmental Studies,5500.00,Completed full military or national service
+151,Community Service Scholarship - Computer Science,24000.00,At least 120 volunteer hours during the last year
+152,Community Service Scholarship - Software Engineering,5500.00,At least 120 volunteer hours during the last year
+153,Community Service Scholarship - Information Systems,5000.00,At least 120 volunteer hours during the last year
+154,Community Service Scholarship - Data Science,22000.00,At least 120 volunteer hours during the last year
+155,Community Service Scholarship - Cyber Security,19000.00,At least 120 volunteer hours during the last year
+156,Community Service Scholarship - Business Administration,2500.00,At least 120 volunteer hours during the last year
+157,Community Service Scholarship - Accounting,22000.00,At least 120 volunteer hours during the last year
+158,Community Service Scholarship - Economics,2000.00,At least 120 volunteer hours during the last year
+159,Community Service Scholarship - Marketing,9500.00,At least 120 volunteer hours during the last year
+160,Community Service Scholarship - Law,10500.00,At least 120 volunteer hours during the last year
+161,Community Service Scholarship - Psychology,6500.00,At least 120 volunteer hours during the last year
+162,Community Service Scholarship - Sociology,5000.00,At least 120 volunteer hours during the last year
+163,Community Service Scholarship - Education,9500.00,At least 120 volunteer hours during the last year
+164,Community Service Scholarship - Nursing,18000.00,At least 120 volunteer hours during the last year
+165,Community Service Scholarship - Biotechnology,23000.00,At least 120 volunteer hours during the last year
+166,Community Service Scholarship - Electrical Engineering,12000.00,At least 120 volunteer hours during the last year
+167,Community Service Scholarship - Mechanical Engineering,5000.00,At least 120 volunteer hours during the last year
+168,Community Service Scholarship - Industrial Engineering,15500.00,At least 120 volunteer hours during the last year
+169,Community Service Scholarship - Architecture,6000.00,At least 120 volunteer hours during the last year
+170,Community Service Scholarship - Graphic Design,6500.00,At least 120 volunteer hours during the last year
+171,Community Service Scholarship - Communications,23000.00,At least 120 volunteer hours during the last year
+172,Community Service Scholarship - Political Science,2500.00,At least 120 volunteer hours during the last year
+173,Community Service Scholarship - English Literature,25000.00,At least 120 volunteer hours during the last year
+174,Community Service Scholarship - Mathematics,6500.00,At least 120 volunteer hours during the last year
+175,Community Service Scholarship - Environmental Studies,22500.00,At least 120 volunteer hours during the last year
+176,Sports Scholarship - Computer Science,5500.00,Competes at national level for a recognized club
+177,Sports Scholarship - Software Engineering,14000.00,Competes at national level for a recognized club
+178,Sports Scholarship - Information Systems,21500.00,Competes at national level for a recognized club
+179,Sports Scholarship - Data Science,20500.00,Competes at national level for a recognized club
+180,Sports Scholarship - Cyber Security,16500.00,Competes at national level for a recognized club
+181,Sports Scholarship - Business Administration,18000.00,Competes at national level for a recognized club
+182,Sports Scholarship - Accounting,1500.00,Competes at national level for a recognized club
+183,Sports Scholarship - Economics,10500.00,Competes at national level for a recognized club
+184,Sports Scholarship - Marketing,8000.00,Competes at national level for a recognized club
+185,Sports Scholarship - Law,17000.00,Competes at national level for a recognized club
+186,Sports Scholarship - Psychology,12500.00,Competes at national level for a recognized club
+187,Sports Scholarship - Sociology,18000.00,Competes at national level for a recognized club
+188,Sports Scholarship - Education,3500.00,Competes at national level for a recognized club
+189,Sports Scholarship - Nursing,15500.00,Competes at national level for a recognized club
+190,Sports Scholarship - Biotechnology,22500.00,Competes at national level for a recognized club
+191,Sports Scholarship - Electrical Engineering,24500.00,Competes at national level for a recognized club
+192,Sports Scholarship - Mechanical Engineering,14000.00,Competes at national level for a recognized club
+193,Sports Scholarship - Industrial Engineering,5500.00,Competes at national level for a recognized club
+194,Sports Scholarship - Architecture,11000.00,Competes at national level for a recognized club
+195,Sports Scholarship - Graphic Design,5500.00,Competes at national level for a recognized club
+196,Sports Scholarship - Communications,23500.00,Competes at national level for a recognized club
+197,Sports Scholarship - Political Science,17000.00,Competes at national level for a recognized club
+198,Sports Scholarship - English Literature,2000.00,Competes at national level for a recognized club
+199,Sports Scholarship - Mathematics,16000.00,Competes at national level for a recognized club
+200,Sports Scholarship - Environmental Studies,1000.00,Competes at national level for a recognized club
+201,Arts Scholarship - Computer Science,2500.00,Portfolio approved by the arts committee
+202,Arts Scholarship - Software Engineering,4000.00,Portfolio approved by the arts committee
+203,Arts Scholarship - Information Systems,12000.00,Portfolio approved by the arts committee
+204,Arts Scholarship - Data Science,19500.00,Portfolio approved by the arts committee
+205,Arts Scholarship - Cyber Security,23500.00,Portfolio approved by the arts committee
+206,Arts Scholarship - Business Administration,23000.00,Portfolio approved by the arts committee
+207,Arts Scholarship - Accounting,9000.00,Portfolio approved by the arts committee
+208,Arts Scholarship - Economics,11500.00,Portfolio approved by the arts committee
+209,Arts Scholarship - Marketing,25000.00,Portfolio approved by the arts committee
+210,Arts Scholarship - Law,1500.00,Portfolio approved by the arts committee
+211,Arts Scholarship - Psychology,6000.00,Portfolio approved by the arts committee
+212,Arts Scholarship - Sociology,17000.00,Portfolio approved by the arts committee
+213,Arts Scholarship - Education,7000.00,Portfolio approved by the arts committee
+214,Arts Scholarship - Nursing,3500.00,Portfolio approved by the arts committee
+215,Arts Scholarship - Biotechnology,14500.00,Portfolio approved by the arts committee
+216,Arts Scholarship - Electrical Engineering,22000.00,Portfolio approved by the arts committee
+217,Arts Scholarship - Mechanical Engineering,14500.00,Portfolio approved by the arts committee
+218,Arts Scholarship - Industrial Engineering,7000.00,Portfolio approved by the arts committee
+219,Arts Scholarship - Architecture,6000.00,Portfolio approved by the arts committee
+220,Arts Scholarship - Graphic Design,8500.00,Portfolio approved by the arts committee
+221,Arts Scholarship - Communications,8000.00,Portfolio approved by the arts committee
+222,Arts Scholarship - Political Science,22000.00,Portfolio approved by the arts committee
+223,Arts Scholarship - English Literature,16500.00,Portfolio approved by the arts committee
+224,Arts Scholarship - Mathematics,7500.00,Portfolio approved by the arts committee
+225,Arts Scholarship - Environmental Studies,12500.00,Portfolio approved by the arts committee
+226,Research Scholarship - Computer Science,6000.00,Participation in a faculty research project
+227,Research Scholarship - Software Engineering,18000.00,Participation in a faculty research project
+228,Research Scholarship - Information Systems,14500.00,Participation in a faculty research project
+229,Research Scholarship - Data Science,24000.00,Participation in a faculty research project
+230,Research Scholarship - Cyber Security,14500.00,Participation in a faculty research project
+231,Research Scholarship - Business Administration,15500.00,Participation in a faculty research project
+232,Research Scholarship - Accounting,12500.00,Participation in a faculty research project
+233,Research Scholarship - Economics,23500.00,Participation in a faculty research project
+234,Research Scholarship - Marketing,7500.00,Participation in a faculty research project
+235,Research Scholarship - Law,10500.00,Participation in a faculty research project
+236,Research Scholarship - Psychology,21000.00,Participation in a faculty research project
+237,Research Scholarship - Sociology,24500.00,Participation in a faculty research project
+238,Research Scholarship - Education,15000.00,Participation in a faculty research project
+239,Research Scholarship - Nursing,18500.00,Participation in a faculty research project
+240,Research Scholarship - Biotechnology,20000.00,Participation in a faculty research project
+241,Research Scholarship - Electrical Engineering,16000.00,Participation in a faculty research project
+242,Research Scholarship - Mechanical Engineering,3500.00,Participation in a faculty research project
+243,Research Scholarship - Industrial Engineering,7500.00,Participation in a faculty research project
+244,Research Scholarship - Architecture,24500.00,Participation in a faculty research project
+245,Research Scholarship - Graphic Design,7000.00,Participation in a faculty research project
+246,Research Scholarship - Communications,4500.00,Participation in a faculty research project
+247,Research Scholarship - Political Science,25000.00,Participation in a faculty research project
+248,Research Scholarship - English Literature,3500.00,Participation in a faculty research project
+249,Research Scholarship - Mathematics,12000.00,Participation in a faculty research project
+250,Research Scholarship - Environmental Studies,23500.00,Participation in a faculty research project
+251,Entrepreneurship Scholarship - Computer Science,22500.00,Business plan approved by the innovation center
+252,Entrepreneurship Scholarship - Software Engineering,20500.00,Business plan approved by the innovation center
+253,Entrepreneurship Scholarship - Information Systems,23000.00,Business plan approved by the innovation center
+254,Entrepreneurship Scholarship - Data Science,6000.00,Business plan approved by the innovation center
+255,Entrepreneurship Scholarship - Cyber Security,4500.00,Business plan approved by the innovation center
+256,Entrepreneurship Scholarship - Business Administration,6500.00,Business plan approved by the innovation center
+257,Entrepreneurship Scholarship - Accounting,7500.00,Business plan approved by the innovation center
+258,Entrepreneurship Scholarship - Economics,21500.00,Business plan approved by the innovation center
+259,Entrepreneurship Scholarship - Marketing,14500.00,Business plan approved by the innovation center
+260,Entrepreneurship Scholarship - Law,7000.00,Business plan approved by the innovation center
+261,Entrepreneurship Scholarship - Psychology,14500.00,Business plan approved by the innovation center
+262,Entrepreneurship Scholarship - Sociology,1500.00,Business plan approved by the innovation center
+263,Entrepreneurship Scholarship - Education,18500.00,Business plan approved by the innovation center
+264,Entrepreneurship Scholarship - Nursing,5500.00,Business plan approved by the innovation center
+265,Entrepreneurship Scholarship - Biotechnology,21500.00,Business plan approved by the innovation center
+266,Entrepreneurship Scholarship - Electrical Engineering,21000.00,Business plan approved by the innovation center
+267,Entrepreneurship Scholarship - Mechanical Engineering,9500.00,Business plan approved by the innovation center
+268,Entrepreneurship Scholarship - Industrial Engineering,10000.00,Business plan approved by the innovation center
+269,Entrepreneurship Scholarship - Architecture,24500.00,Business plan approved by the innovation center
+270,Entrepreneurship Scholarship - Graphic Design,12500.00,Business plan approved by the innovation center
+271,Entrepreneurship Scholarship - Communications,13500.00,Business plan approved by the innovation center
+272,Entrepreneurship Scholarship - Political Science,1000.00,Business plan approved by the innovation center
+273,Entrepreneurship Scholarship - English Literature,16000.00,Business plan approved by the innovation center
+274,Entrepreneurship Scholarship - Mathematics,17500.00,Business plan approved by the innovation center
+275,Entrepreneurship Scholarship - Environmental Studies,15500.00,Business plan approved by the innovation center
+276,Alumni Scholarship - Computer Science,9500.00,Child or sibling of a college graduate
+277,Alumni Scholarship - Software Engineering,12000.00,Child or sibling of a college graduate
+278,Alumni Scholarship - Information Systems,16500.00,Child or sibling of a college graduate
+279,Alumni Scholarship - Data Science,5000.00,Child or sibling of a college graduate
+280,Alumni Scholarship - Cyber Security,4000.00,Child or sibling of a college graduate
+281,Alumni Scholarship - Business Administration,5500.00,Child or sibling of a college graduate
+282,Alumni Scholarship - Accounting,18500.00,Child or sibling of a college graduate
+283,Alumni Scholarship - Economics,8000.00,Child or sibling of a college graduate
+284,Alumni Scholarship - Marketing,12000.00,Child or sibling of a college graduate
+285,Alumni Scholarship - Law,15500.00,Child or sibling of a college graduate
+286,Alumni Scholarship - Psychology,13000.00,Child or sibling of a college graduate
+287,Alumni Scholarship - Sociology,20000.00,Child or sibling of a college graduate
+288,Alumni Scholarship - Education,21000.00,Child or sibling of a college graduate
+289,Alumni Scholarship - Nursing,19500.00,Child or sibling of a college graduate
+290,Alumni Scholarship - Biotechnology,2500.00,Child or sibling of a college graduate
+291,Alumni Scholarship - Electrical Engineering,23000.00,Child or sibling of a college graduate
+292,Alumni Scholarship - Mechanical Engineering,22000.00,Child or sibling of a college graduate
+293,Alumni Scholarship - Industrial Engineering,18500.00,Child or sibling of a college graduate
+294,Alumni Scholarship - Architecture,11000.00,Child or sibling of a college graduate
+295,Alumni Scholarship - Graphic Design,25000.00,Child or sibling of a college graduate
+296,Alumni Scholarship - Communications,9000.00,Child or sibling of a college graduate
+297,Alumni Scholarship - Political Science,22500.00,Child or sibling of a college graduate
+298,Alumni Scholarship - English Literature,3500.00,Child or sibling of a college graduate
+299,Alumni Scholarship - Mathematics,15500.00,Child or sibling of a college graduate
+300,Alumni Scholarship - Environmental Studies,15500.00,Child or sibling of a college graduate
+301,First Generation Scholarship - Computer Science,12000.00,First person in the family to study for a degree
+302,First Generation Scholarship - Software Engineering,18000.00,First person in the family to study for a degree
+303,First Generation Scholarship - Information Systems,17500.00,First person in the family to study for a degree
+304,First Generation Scholarship - Data Science,17500.00,First person in the family to study for a degree
+305,First Generation Scholarship - Cyber Security,4000.00,First person in the family to study for a degree
+306,First Generation Scholarship - Business Administration,9500.00,First person in the family to study for a degree
+307,First Generation Scholarship - Accounting,10000.00,First person in the family to study for a degree
+308,First Generation Scholarship - Economics,2000.00,First person in the family to study for a degree
+309,First Generation Scholarship - Marketing,3500.00,First person in the family to study for a degree
+310,First Generation Scholarship - Law,19500.00,First person in the family to study for a degree
+311,First Generation Scholarship - Psychology,2000.00,First person in the family to study for a degree
+312,First Generation Scholarship - Sociology,3000.00,First person in the family to study for a degree
+313,First Generation Scholarship - Education,17500.00,First person in the family to study for a degree
+314,First Generation Scholarship - Nursing,15000.00,First person in the family to study for a degree
+315,First Generation Scholarship - Biotechnology,19000.00,First person in the family to study for a degree
+316,First Generation Scholarship - Electrical Engineering,4000.00,First person in the family to study for a degree
+317,First Generation Scholarship - Mechanical Engineering,13000.00,First person in the family to study for a degree
+318,First Generation Scholarship - Industrial Engineering,21500.00,First person in the family to study for a degree
+319,First Generation Scholarship - Architecture,19000.00,First person in the family to study for a degree
+320,First Generation Scholarship - Graphic Design,15500.00,First person in the family to study for a degree
+321,First Generation Scholarship - Communications,20500.00,First person in the family to study for a degree
+322,First Generation Scholarship - Political Science,16000.00,First person in the family to study for a degree
+323,First Generation Scholarship - English Literature,18000.00,First person in the family to study for a degree
+324,First Generation Scholarship - Mathematics,1500.00,First person in the family to study for a degree
+325,First Generation Scholarship - Environmental Studies,5500.00,First person in the family to study for a degree
+326,Periphery Student Scholarship - Computer Science,11000.00,Resident of a peripheral town
+327,Periphery Student Scholarship - Software Engineering,5000.00,Resident of a peripheral town
+328,Periphery Student Scholarship - Information Systems,1500.00,Resident of a peripheral town
+329,Periphery Student Scholarship - Data Science,4000.00,Resident of a peripheral town
+330,Periphery Student Scholarship - Cyber Security,13500.00,Resident of a peripheral town
+331,Periphery Student Scholarship - Business Administration,3500.00,Resident of a peripheral town
+332,Periphery Student Scholarship - Accounting,6000.00,Resident of a peripheral town
+333,Periphery Student Scholarship - Economics,18000.00,Resident of a peripheral town
+334,Periphery Student Scholarship - Marketing,9000.00,Resident of a peripheral town
+335,Periphery Student Scholarship - Law,1500.00,Resident of a peripheral town
+336,Periphery Student Scholarship - Psychology,2000.00,Resident of a peripheral town
+337,Periphery Student Scholarship - Sociology,24500.00,Resident of a peripheral town
+338,Periphery Student Scholarship - Education,3000.00,Resident of a peripheral town
+339,Periphery Student Scholarship - Nursing,25000.00,Resident of a peripheral town
+340,Periphery Student Scholarship - Biotechnology,20000.00,Resident of a peripheral town
+341,Periphery Student Scholarship - Electrical Engineering,17500.00,Resident of a peripheral town
+342,Periphery Student Scholarship - Mechanical Engineering,4500.00,Resident of a peripheral town
+343,Periphery Student Scholarship - Industrial Engineering,24000.00,Resident of a peripheral town
+344,Periphery Student Scholarship - Architecture,11500.00,Resident of a peripheral town
+345,Periphery Student Scholarship - Graphic Design,23500.00,Resident of a peripheral town
+346,Periphery Student Scholarship - Communications,5500.00,Resident of a peripheral town
+347,Periphery Student Scholarship - Political Science,10500.00,Resident of a peripheral town
+348,Periphery Student Scholarship - English Literature,16000.00,Resident of a peripheral town
+349,Periphery Student Scholarship - Mathematics,8500.00,Resident of a peripheral town
+350,Periphery Student Scholarship - Environmental Studies,11000.00,Resident of a peripheral town
+351,New Immigrant Scholarship - Computer Science,23500.00,Immigrated within the last five years
+352,New Immigrant Scholarship - Software Engineering,15500.00,Immigrated within the last five years
+353,New Immigrant Scholarship - Information Systems,23000.00,Immigrated within the last five years
+354,New Immigrant Scholarship - Data Science,8500.00,Immigrated within the last five years
+355,New Immigrant Scholarship - Cyber Security,13500.00,Immigrated within the last five years
+356,New Immigrant Scholarship - Business Administration,8500.00,Immigrated within the last five years
+357,New Immigrant Scholarship - Accounting,17000.00,Immigrated within the last five years
+358,New Immigrant Scholarship - Economics,11000.00,Immigrated within the last five years
+359,New Immigrant Scholarship - Marketing,14000.00,Immigrated within the last five years
+360,New Immigrant Scholarship - Law,2000.00,Immigrated within the last five years
+361,New Immigrant Scholarship - Psychology,16500.00,Immigrated within the last five years
+362,New Immigrant Scholarship - Sociology,8500.00,Immigrated within the last five years
+363,New Immigrant Scholarship - Education,20000.00,Immigrated within the last five years
+364,New Immigrant Scholarship - Nursing,6500.00,Immigrated within the last five years
+365,New Immigrant Scholarship - Biotechnology,15000.00,Immigrated within the last five years
+366,New Immigrant Scholarship - Electrical Engineering,7000.00,Immigrated within the last five years
+367,New Immigrant Scholarship - Mechanical Engineering,4500.00,Immigrated within the last five years
+368,New Immigrant Scholarship - Industrial Engineering,19500.00,Immigrated within the last five years
+369,New Immigrant Scholarship - Architecture,16000.00,Immigrated within the last five years
+370,New Immigrant Scholarship - Graphic Design,19500.00,Immigrated within the last five years
+371,New Immigrant Scholarship - Communications,13000.00,Immigrated within the last five years
+372,New Immigrant Scholarship - Political Science,16000.00,Immigrated within the last five years
+373,New Immigrant Scholarship - English Literature,17500.00,Immigrated within the last five years
+374,New Immigrant Scholarship - Mathematics,1500.00,Immigrated within the last five years
+375,New Immigrant Scholarship - Environmental Studies,16500.00,Immigrated within the last five years
+376,Disability Support Scholarship - Computer Science,7500.00,"Recognized disability, committee approval required"
+377,Disability Support Scholarship - Software Engineering,13000.00,"Recognized disability, committee approval required"
+378,Disability Support Scholarship - Information Systems,24000.00,"Recognized disability, committee approval required"
+379,Disability Support Scholarship - Data Science,2000.00,"Recognized disability, committee approval required"
+380,Disability Support Scholarship - Cyber Security,17500.00,"Recognized disability, committee approval required"
+381,Disability Support Scholarship - Business Administration,15500.00,"Recognized disability, committee approval required"
+382,Disability Support Scholarship - Accounting,5000.00,"Recognized disability, committee approval required"
+383,Disability Support Scholarship - Economics,10000.00,"Recognized disability, committee approval required"
+384,Disability Support Scholarship - Marketing,8500.00,"Recognized disability, committee approval required"
+385,Disability Support Scholarship - Law,17500.00,"Recognized disability, committee approval required"
+386,Disability Support Scholarship - Psychology,11000.00,"Recognized disability, committee approval required"
+387,Disability Support Scholarship - Sociology,9500.00,"Recognized disability, committee approval required"
+388,Disability Support Scholarship - Education,14500.00,"Recognized disability, committee approval required"
+389,Disability Support Scholarship - Nursing,24500.00,"Recognized disability, committee approval required"
+390,Disability Support Scholarship - Biotechnology,19500.00,"Recognized disability, committee approval required"
+391,Disability Support Scholarship - Electrical Engineering,1500.00,"Recognized disability, committee approval required"
+392,Disability Support Scholarship - Mechanical Engineering,12000.00,"Recognized disability, committee approval required"
+393,Disability Support Scholarship - Industrial Engineering,20000.00,"Recognized disability, committee approval required"
+394,Disability Support Scholarship - Architecture,17500.00,"Recognized disability, committee approval required"
+395,Disability Support Scholarship - Graphic Design,6000.00,"Recognized disability, committee approval required"
+396,Disability Support Scholarship - Communications,17500.00,"Recognized disability, committee approval required"
+397,Disability Support Scholarship - Political Science,4500.00,"Recognized disability, committee approval required"
+398,Disability Support Scholarship - English Literature,19000.00,"Recognized disability, committee approval required"
+399,Disability Support Scholarship - Mathematics,12500.00,"Recognized disability, committee approval required"
+400,Disability Support Scholarship - Environmental Studies,7500.00,"Recognized disability, committee approval required"
+401,Presidents Scholarship - Computer Science,19500.00,Selected by the college president office
+402,Presidents Scholarship - Software Engineering,3000.00,Selected by the college president office
+403,Presidents Scholarship - Information Systems,18500.00,Selected by the college president office
+404,Presidents Scholarship - Data Science,6000.00,Selected by the college president office
+405,Presidents Scholarship - Cyber Security,15500.00,Selected by the college president office
+406,Presidents Scholarship - Business Administration,13500.00,Selected by the college president office
+407,Presidents Scholarship - Accounting,4500.00,Selected by the college president office
+408,Presidents Scholarship - Economics,4000.00,Selected by the college president office
+409,Presidents Scholarship - Marketing,14000.00,Selected by the college president office
+410,Presidents Scholarship - Law,13500.00,Selected by the college president office
+411,Presidents Scholarship - Psychology,1000.00,Selected by the college president office
+412,Presidents Scholarship - Sociology,8500.00,Selected by the college president office
+413,Presidents Scholarship - Education,7000.00,Selected by the college president office
+414,Presidents Scholarship - Nursing,2500.00,Selected by the college president office
+415,Presidents Scholarship - Biotechnology,9000.00,Selected by the college president office
+416,Presidents Scholarship - Electrical Engineering,25000.00,Selected by the college president office
+417,Presidents Scholarship - Mechanical Engineering,6000.00,Selected by the college president office
+418,Presidents Scholarship - Industrial Engineering,17500.00,Selected by the college president office
+419,Presidents Scholarship - Architecture,9500.00,Selected by the college president office
+420,Presidents Scholarship - Graphic Design,12500.00,Selected by the college president office
+421,Presidents Scholarship - Communications,3500.00,Selected by the college president office
+422,Presidents Scholarship - Political Science,9000.00,Selected by the college president office
+423,Presidents Scholarship - English Literature,6000.00,Selected by the college president office
+424,Presidents Scholarship - Mathematics,2000.00,Selected by the college president office
+425,Presidents Scholarship - Environmental Studies,7500.00,Selected by the college president office
+426,Innovation Scholarship - Computer Science,23500.00,Winner of the yearly innovation challenge
+427,Innovation Scholarship - Software Engineering,21000.00,Winner of the yearly innovation challenge
+428,Innovation Scholarship - Information Systems,23500.00,Winner of the yearly innovation challenge
+429,Innovation Scholarship - Data Science,18500.00,Winner of the yearly innovation challenge
+430,Innovation Scholarship - Cyber Security,4500.00,Winner of the yearly innovation challenge
+431,Innovation Scholarship - Business Administration,15000.00,Winner of the yearly innovation challenge
+432,Innovation Scholarship - Accounting,18500.00,Winner of the yearly innovation challenge
+433,Innovation Scholarship - Economics,22000.00,Winner of the yearly innovation challenge
+434,Innovation Scholarship - Marketing,2000.00,Winner of the yearly innovation challenge
+435,Innovation Scholarship - Law,12000.00,Winner of the yearly innovation challenge
+436,Innovation Scholarship - Psychology,23000.00,Winner of the yearly innovation challenge
+437,Innovation Scholarship - Sociology,15500.00,Winner of the yearly innovation challenge
+438,Innovation Scholarship - Education,17000.00,Winner of the yearly innovation challenge
+439,Innovation Scholarship - Nursing,21000.00,Winner of the yearly innovation challenge
+440,Innovation Scholarship - Biotechnology,2000.00,Winner of the yearly innovation challenge
+441,Innovation Scholarship - Electrical Engineering,7000.00,Winner of the yearly innovation challenge
+442,Innovation Scholarship - Mechanical Engineering,21500.00,Winner of the yearly innovation challenge
+443,Innovation Scholarship - Industrial Engineering,21500.00,Winner of the yearly innovation challenge
+444,Innovation Scholarship - Architecture,16000.00,Winner of the yearly innovation challenge
+445,Innovation Scholarship - Graphic Design,2500.00,Winner of the yearly innovation challenge
+446,Innovation Scholarship - Communications,10000.00,Winner of the yearly innovation challenge
+447,Innovation Scholarship - Political Science,3500.00,Winner of the yearly innovation challenge
+448,Innovation Scholarship - English Literature,6000.00,Winner of the yearly innovation challenge
+449,Innovation Scholarship - Mathematics,21500.00,Winner of the yearly innovation challenge
+450,Innovation Scholarship - Environmental Studies,3000.00,Winner of the yearly innovation challenge
+451,Leadership Scholarship - Computer Science,9500.00,Elected student union or class representative
+452,Leadership Scholarship - Software Engineering,7500.00,Elected student union or class representative
+453,Leadership Scholarship - Information Systems,1000.00,Elected student union or class representative
+454,Leadership Scholarship - Data Science,10000.00,Elected student union or class representative
+455,Leadership Scholarship - Cyber Security,20500.00,Elected student union or class representative
+456,Leadership Scholarship - Business Administration,21500.00,Elected student union or class representative
+457,Leadership Scholarship - Accounting,2000.00,Elected student union or class representative
+458,Leadership Scholarship - Economics,16000.00,Elected student union or class representative
+459,Leadership Scholarship - Marketing,9000.00,Elected student union or class representative
+460,Leadership Scholarship - Law,3000.00,Elected student union or class representative
+461,Leadership Scholarship - Psychology,23000.00,Elected student union or class representative
+462,Leadership Scholarship - Sociology,24000.00,Elected student union or class representative
+463,Leadership Scholarship - Education,18000.00,Elected student union or class representative
+464,Leadership Scholarship - Nursing,6000.00,Elected student union or class representative
+465,Leadership Scholarship - Biotechnology,18500.00,Elected student union or class representative
+466,Leadership Scholarship - Electrical Engineering,21000.00,Elected student union or class representative
+467,Leadership Scholarship - Mechanical Engineering,17500.00,Elected student union or class representative
+468,Leadership Scholarship - Industrial Engineering,19500.00,Elected student union or class representative
+469,Leadership Scholarship - Architecture,18000.00,Elected student union or class representative
+470,Leadership Scholarship - Graphic Design,8500.00,Elected student union or class representative
+471,Leadership Scholarship - Communications,16500.00,Elected student union or class representative
+472,Leadership Scholarship - Political Science,2500.00,Elected student union or class representative
+473,Leadership Scholarship - English Literature,18000.00,Elected student union or class representative
+474,Leadership Scholarship - Mathematics,12000.00,Elected student union or class representative
+475,Leadership Scholarship - Environmental Studies,8000.00,Elected student union or class representative
+476,Single Parent Scholarship - Computer Science,18000.00,Single parent studying full time
+477,Single Parent Scholarship - Software Engineering,13500.00,Single parent studying full time
+478,Single Parent Scholarship - Information Systems,15500.00,Single parent studying full time
+479,Single Parent Scholarship - Data Science,3500.00,Single parent studying full time
+480,Single Parent Scholarship - Cyber Security,8500.00,Single parent studying full time
+481,Single Parent Scholarship - Business Administration,2000.00,Single parent studying full time
+482,Single Parent Scholarship - Accounting,1000.00,Single parent studying full time
+483,Single Parent Scholarship - Economics,14000.00,Single parent studying full time
+484,Single Parent Scholarship - Marketing,13000.00,Single parent studying full time
+485,Single Parent Scholarship - Law,18500.00,Single parent studying full time
+486,Single Parent Scholarship - Psychology,3500.00,Single parent studying full time
+487,Single Parent Scholarship - Sociology,15000.00,Single parent studying full time
+488,Single Parent Scholarship - Education,22500.00,Single parent studying full time
+489,Single Parent Scholarship - Nursing,20500.00,Single parent studying full time
+490,Single Parent Scholarship - Biotechnology,6500.00,Single parent studying full time
+491,Single Parent Scholarship - Electrical Engineering,6000.00,Single parent studying full time
+492,Single Parent Scholarship - Mechanical Engineering,8500.00,Single parent studying full time
+493,Single Parent Scholarship - Industrial Engineering,6000.00,Single parent studying full time
+494,Single Parent Scholarship - Architecture,18500.00,Single parent studying full time
+495,Single Parent Scholarship - Graphic Design,7000.00,Single parent studying full time
+496,Single Parent Scholarship - Communications,17000.00,Single parent studying full time
+497,Single Parent Scholarship - Political Science,25000.00,Single parent studying full time
+498,Single Parent Scholarship - English Literature,11500.00,Single parent studying full time
+499,Single Parent Scholarship - Mathematics,13500.00,Single parent studying full time
+500,Single Parent Scholarship - Environmental Studies,9500.00,Single parent studying full time

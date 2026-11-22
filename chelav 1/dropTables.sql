@@ -1,0 +1,13 @@
+DROP TABLE IF EXISTS payslip;
+DROP TABLE IF EXISTS scholarship_award;
+DROP TABLE IF EXISTS scholarship;
+DROP TABLE IF EXISTS payment;
+DROP TABLE IF EXISTS installment;
+DROP TABLE IF EXISTS invoice;
+DROP TABLE IF EXISTS employee;
+DROP TABLE IF EXISTS student;
+DROP TABLE IF EXISTS program;
+DROP TABLE IF EXISTS person;
+DROP TABLE IF EXISTS job_position;
+DROP TABLE IF EXISTS payment_method;
+DROP TABLE IF EXISTS invoice_status;
