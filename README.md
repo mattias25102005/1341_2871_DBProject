@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Authors** | **[TO FILL: name 1 – ID last 4 digits]**, **[TO FILL: name 2 – ID last 4 digits]** |
+| **Authors** | **[Acher – 2871]**, **[Mattias – 1341]** |
 | **System** | College (מכללה) |
 | **Unit** | Accounting department (אגף חשבונות) |
 | **DBMS** | PostgreSQL (Docker) + pgAdmin |
@@ -24,7 +24,6 @@ The accounting department of a college handles two money flows.
 - **Outgoing money:** every employee receives a monthly **payslip**.
 
 The database stores people (students and employees), study programs, invoices, installments, payments, scholarships and their awards, and payslips.
-
 Main functionality of the system:
 1. Follow a student account: invoices, installments, payments and balance.
 2. Enter a payment and link it to the employee who recorded it.
@@ -34,7 +33,7 @@ Main functionality of the system:
 ## 2. Screens (prototype)
 The 4 screens were generated with Google AI Studio (mock data, no database).
 
-**AI Studio link:** **[TO FILL: paste the link]**
+**AI Studio link:** **[(https://aistudio.google.com/apps/5e3d193e-c72e-40ab-b8aa-d2d20a9e39cc?showPreview=true&showAssistant=true&fullscreenApplet=true)]**
 
 | Screen | Image |
 |---|---|
